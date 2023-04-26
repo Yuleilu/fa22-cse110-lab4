@@ -28,4 +28,15 @@ true === Boolean(2)       true. Boolean(2)===true
 
 # 15.
 Explain the difference between the == and === operators.   
-The == operator is a loose equality operator that coerces the operands to a common type and compares them. The strict equality operator === compares the operands without coercion.  ===
+The == operator is a loose equality operator that coerces the operands to a common type and compares them. The strict equality operator === compares the operands without coercion.
+
+
+# 17.
+[2,4,6].
+When looping the array, each element in the array is passed to callback function(doSomething). And doSomething return each element by mutiplying 2.
+
+# 19.
+1
+4
+3
+2
