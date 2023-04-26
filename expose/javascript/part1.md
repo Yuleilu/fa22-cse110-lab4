@@ -59,4 +59,4 @@ because length is assigned the value of p.length before the loop.
 [50, 100, 150]
 The function takes an array of prices and a discount percentage. It calculates the discounted price for each product in the prices array. The discounted prices are then pushed into a new array, which is ultimately returned by the function.
 
-# 12.
+
