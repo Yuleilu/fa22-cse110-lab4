@@ -8,7 +8,7 @@ values added: 20
 final result: 20
 
 # 3.
-values added: 20 ?
+values added: 20 
 
 # 4.
 final result: 20
