@@ -11,7 +11,8 @@ expose.js
 78ms
 
 5. What was your User-Agent for the browser that made the request?
-https://cse110-fa22.github.io/Lab4_Hosted/citylots.json
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+
 
 6. In the response header, what type of server did it come from?
 GitHub.com
@@ -24,6 +25,6 @@ application/json; charset=utf-8
 
 
 9. Which function inside the initiating file made the request?
-fetchData
+fetchData()
 
 
